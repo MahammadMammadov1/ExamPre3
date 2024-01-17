@@ -1,0 +1,40 @@
+﻿@model List<Services>
+
+<div class="container-fluid">
+    Create Trainer
+    <a asp-action="create" asp-controller="service" class="btn btn-primary ">Create</a>
+</div>
+
+
+<div class="container-fluid row">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">InstaUrl</th>
+                <th scope="col">FbUrl</th>
+                <th scope="col">TwitUrl</th>
+                <th scope="col">Image</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+                @foreach (var item in Model)
+                {
+            <tr>
+                    <td>@item.Name</td>
+                    <td>@item.InstaUrl</td>
+                    <td>@item.FaceUrl</td>
+                    <td>@item.TwutUrl</td>
+                    <td><img width="60px" src="~/Uploads/Services/@item.ImageUrl" /></td>
+                    <td>
+                        <a asp-controller="service" asp-action="update" asp-route-id="@item.Id" class="btn btn-primary">Update</a>
+                        <a asp-controller="service" asp-action="delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    </td>
+
+            </tr>
+                }
+           
+        </tbody>
+    </table>
+</div>

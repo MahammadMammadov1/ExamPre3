@@ -1,0 +1,32 @@
+﻿@model Services
+<div class="container-fluid">
+    <form method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input asp-for="Name" class="form-control">
+            <span asp-validation-for="Name"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="InstaUrl" class="form-label">InstaUrl</label>
+            <input asp-for="InstaUrl" class="form-control">
+            <span asp-validation-for="InstaUrl"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="FaceUrl" class="form-label">FacebookUrl</label>
+            <input asp-for="FaceUrl" class="form-control">
+            <span asp-validation-for="FaceUrl"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="TwutUrl" class="form-label">TwitterUrl</label>
+            <input asp-for="TwutUrl" class="form-control">
+            <span asp-validation-for="TwutUrl"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="FormFile" class="form-label">FormFile</label>
+            <input asp-for="FormFile" class="form-control">
+            <span asp-validation-for="FormFile"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+</div>

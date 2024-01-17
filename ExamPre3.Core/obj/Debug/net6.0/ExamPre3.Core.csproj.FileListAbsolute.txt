@@ -1,0 +1,14 @@
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\bin\Debug\net6.0\ExamPre3.Core.deps.json
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\bin\Debug\net6.0\ExamPre3.Core.runtimeconfig.json
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\bin\Debug\net6.0\ExamPre3.Core.dll
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\bin\Debug\net6.0\ExamPre3.Core.pdb
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\obj\Debug\net6.0\ExamPre3.Core.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\obj\Debug\net6.0\ExamPre3.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\obj\Debug\net6.0\ExamPre3.Core.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\obj\Debug\net6.0\ExamPre3.Core.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\obj\Debug\net6.0\ExamPre3.Core.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\obj\Debug\net6.0\ExamPre3.Core.dll
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\obj\Debug\net6.0\refint\ExamPre3.Core.dll
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\obj\Debug\net6.0\ExamPre3.Core.pdb
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\obj\Debug\net6.0\ExamPre3.Core.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\TasksCode\ExamPre3\ExamPre3.Core\obj\Debug\net6.0\ref\ExamPre3.Core.dll
